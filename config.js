@@ -20,7 +20,7 @@ global.info = {
  nameown: 'Nour',
  nomerown: '212717457920',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'Salah_eddine',
  namebot: 'ꜱɪʟᴀɴᴀ',
  wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
@@ -46,7 +46,7 @@ global.url = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
+ sig: 'https://instagram.com/ssalaah_eddine',
  sgh:  'https://github.com/noureddineouafy',
  sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
 }
